@@ -8,7 +8,7 @@ Hi, I'm an Unreal Engine programmer specializing in UI.
 ## Unreal Plugins
 
 |Name|Description|
-| ------------- |:-------------|
+|:------------- |:-------------|
 | 💨[UI Tweener](https://github.com/benui-dev/UE-BUITween) | Animate UI widgets from C++. |
 | 👾[Cheat Manager](https://github.com/benui-dev/UE-BUICheatManager) | Add custom cheat shortcuts like `enemy.hp.set 50`. |
 | ✅[Asset Validator](https://github.com/benui-dev/UE-BUIValidator) | Check texture size, category, import path. |
