@@ -18,5 +18,11 @@ Hi, I'm an Unreal Engine programmer specializing in UI.
 | 🔒[Cross-Branch Lock](https://github.com/BraceYourselfGames/UE-BYGCrossBranchLock) | Warn if assets are locked in another branch |
 | 📃[ImGui Logger](https://github.com/BraceYourselfGames/UE-BYGImguiLogger) | Display logs in-game using ImGui |
 | 🗣[Text to Speech](https://github.com/BraceYourselfGames/UE-BYGTextToSpeech) | Use Windows built-in TTS to speak text. |
+
+## Other
+
+|Name|Description|
+|:------------- |:-------------|
 | ⚙[UPROPERTY, UFUNCTION etc Docs](https://github.com/benui-dev/UE-Specifier-Docs) | Specifier docs at [benui.ca](https://benui.ca/unreal/uproperty). |
+| 🐛[Report benui.ca bugs](https://github.com/benui-dev/benui-site) | Submit tickets about inaccuracies on my site. |
 
