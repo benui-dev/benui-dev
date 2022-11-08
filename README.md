@@ -4,7 +4,7 @@ Hi, I'm an Unreal Engine programmer specializing in UI.
 
 🌱[benui.ca](https://benui.ca/?utm_medium=social&utm_source=GitHub)
 
-🐦[Twitter](https://twitter.com/_benui)
+🐦[Twitter](https://twitter.com/_benui) / 🐘<a rel="me" href="https://mastodon.gamedev.place/@_benui">Mastodon</a>
 
 ## Unreal Plugins
 
@@ -26,4 +26,3 @@ Hi, I'm an Unreal Engine programmer specializing in UI.
 |:------------- |:-------------|
 | ⚙[UPROPERTY, UFUNCTION etc Docs](https://github.com/benui-dev/UE-Specifier-Docs) | Specifier docs at [benui.ca](https://benui.ca/unreal/uproperty). |
 | 🐛[Report benui.ca bugs](https://github.com/benui-dev/benui-site) | Submit tickets about inaccuracies on my site. |
-
